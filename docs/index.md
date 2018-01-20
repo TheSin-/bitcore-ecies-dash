@@ -21,8 +21,8 @@ bower install bitcore-ecies --save
 ## Example
 
 ```javascript
-var bitcore = require('bitcore-lib-dash');
-var ECIES = require('bitcore-ecies-dash');
+var bitcore = require('bitcore-lib-terracoin');
+var ECIES = require('bitcore-ecies-terracoin');
 
 var alicePrivateKey = new bitcore.PrivateKey();
 var bobPrivateKey = new bitcore.PrivateKey();
