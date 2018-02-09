@@ -40,6 +40,6 @@
   },
   "dependencies": {
     "aes": "^0.1.0",
-    "bitcore-lib-terracoin": "^0.15.0"
+    "bitcore-lib-terracoin": "TheSin-/bitcore-lib-terracoin"
   }
 }
