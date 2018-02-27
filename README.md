@@ -6,7 +6,7 @@
 
 A module for [bitcore-terracoin][bitcore-terracoin] that implements the [Elliptic Curve Integrated Encryption Scheme (ECIES)][ECIES]. Uses ECIES symmetric key negotiation from public keys to encrypt arbitrarily long data streams.
 
-See [the main bitcore-terracoin repo](https://github.com/TheSin-/bitcore-terracoin) or the [bitcore guide on ECIES](http://bitcore.io/guide/module/ecies/index.html) for more information.
+See [the main bitcore-terracoin repo](https://github.com/terracoin/bitcore-terracoin) or the [bitcore guide on ECIES](http://bitcore.io/guide/module/ecies/index.html) for more information.
 
 Credit to [@ryanxcharles][ryan] for the original implementation.
 
@@ -35,7 +35,7 @@ var decrypted = bob
 
 ## Contributing
 
-See [CONTRIBUTING.md](https://github.com/TheSin-/bitcore-terracoin/blob/master/CONTRIBUTING.md) on the main bitcore-terracoin repo for information about how to contribute.
+See [CONTRIBUTING.md](https://github.com/terracoin/bitcore-terracoin/blob/master/CONTRIBUTING.md) on the main bitcore-terracoin repo for information about how to contribute.
 
 ## License
 
@@ -43,6 +43,6 @@ Code released under [the MIT license](https://github.com/bitpay/bitcore/blob/mas
 
 Copyright 2013-2015 BitPay, Inc. Bitcore is a trademark maintained by BitPay, Inc.
 
-[bitcore-terracoin]: http://github.com/TheSin-/bitcore-terracoin
+[bitcore-terracoin]: http://github.com/terracoin/bitcore-terracoin
 [ECIES]: http://en.wikipedia.org/wiki/Integrated_Encryption_Scheme
 [ryan]: http://github.com/ryanxcharles

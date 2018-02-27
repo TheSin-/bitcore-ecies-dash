@@ -2,7 +2,7 @@
   "name": "bitcore-ecies",
   "main": "./bitcore-ecies.min.js",
   "version": "1.0.3",
-  "homepage": "https://github.com/bitpay/bitcore-ecies",
+  "homepage": "https://github.com/terracoin/bitcore-ecies-terracoin",
   "authors": [
     "BitPay"
   ],
@@ -11,9 +11,9 @@
     "globals"
   ],
   "keywords": [
-    "bitcoin",
+    "terracoin",
     "bitcore",
-    "btc",
+    "trc",
     "satoshi",
     "ecies"
   ],

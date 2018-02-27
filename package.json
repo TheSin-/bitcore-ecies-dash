@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/TheSin-/bitcore-ecies-terracoin.git"
+    "url": "https://github.com/terracoin/bitcore-ecies-terracoin.git"
   },
   "keywords": [
     "terracoin",
@@ -27,12 +27,12 @@
   "author": "BitPay",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TheSin-/bitcore-ecies-terracoin/issues"
+    "url": "https://github.com/terracoin/bitcore-ecies-terracoin/issues"
   },
-  "homepage": "https://github.com/TheSin-/bitcore-ecies-terracoin",
+  "homepage": "https://github.com/terracoin/bitcore-ecies-terracoin",
   "devDependencies": {
     "assert": "^1.1.2",
-    "bitcore-build-terracoin": "TheSin-/bitcore-build-terracoin",
+    "bitcore-build-terracoin": "terracoin/bitcore-build-terracoin",
     "brfs": "^1.2.0",
     "browserify": "^8.1.0",
     "chai": "~1.10.0",
@@ -40,6 +40,6 @@
   },
   "dependencies": {
     "aes": "^0.1.0",
-    "bitcore-lib-terracoin": "TheSin-/bitcore-lib-terracoin"
+    "bitcore-lib-terracoin": "^0.15.2"
   }
 }
